@@ -10,7 +10,7 @@ MY year-old grandson, Leo, wraps his arm around my neck as we leave the diner in
 
 After a protracted and chaotic adolescence, our younger daughter, Anna, has just begun her final year of college. This boy with flax-blond hair and light blue eyes is her gift to the family she has been trying to flee for the last decade. Toy cars, real trains and mechanical objects of all sizes fascinate Leo. He and I spend our time together exploring lumberyards, railroad depots and any highway department that possesses a road grader, an excavator or a dump truck.
 
-经过一个长而混乱的青春期，我们的小女儿 Anna 终于回归了，开始了她大学的最后一年。这些年她一直逃避着我们，Leo 这个有着一头亚麻金色头发和淡蓝色眼睛的男孩是她给我们带回的礼物。Leo 喜欢玩具小汽车，喜欢真正的火车，各种大大小小的机械装置吸引着他。他喜欢和我一起探索伐木场，探索火车站，探索高速上那些有着压土机、挖掘机和自动倾卸卡车的地方。
+经过一个长而混乱的青春期，我们的小女儿 Anna 终于回归了，开始了她大学的最后一年。这些年她一直逃避着我们，Leo 这个有着一头亚麻金色头发和淡蓝色眼睛的男孩是她给我们带回的礼物。Leo 喜欢玩具小汽车，喜欢火车，各种大大小小的机械装置吸引着他。他喜欢和我一起探索伐木场，探索火车站，探索高速上那些有着压土机、挖掘机和自动倾卸卡车的地方。
 
 As we enter the hardware store, the middle-aged woman working the cash register says: “Oh, my Lord. Can I hold that baby?” After Leo completes his first romantic conquest, we move toward merchandise he cannot destroy: metal fasteners, plastic pipes and rope. But when I am distracted for a moment, he takes a large two-socket switch from a waist-high bin.
 
@@ -62,7 +62,7 @@ How does this happen? How does a child who spends her early life glued to your h
 
 Of course, I understood her feelings. My own father and I had had a distant relationship in which much of what I received from him was withering criticism. Unable to appreciate my father’s frustrations and limitations, which included periodic unemployment and debilitating illnesses, I had spent my own teenage years retreating from his dissatisfaction and rage.
 
-当然，我明白她的感受，我和我的父亲的关系就很冷淡，我从我父亲那得到的永远是批评，批评还是批评。我无法理解我父亲的绝望和局限（时不时的事业和疾病），我整个青少年时期都在逃避他的不满和愤怒。
+当然，我明白她的感受，我和我的父亲的关系就很冷淡，我从我父亲那得到的永远是批评，批评还是批评。我无法理解我父亲的绝望和局限（时不时的失业和疾病），我整个青少年时期都在逃避他的不满和愤怒。
 
 But I was going to be a different kind of father, one who would use reason, not rage. Even so, I didn’t fully see that my hopes for Anna would not automatically become her hopes. I didn’t understand how futile and naïve was my goal of a trouble-free adolescence for my younger daughter.
 
@@ -70,7 +70,7 @@ But I was going to be a different kind of father, one who would use reason, not 
 
 When Anna met a boy who confirmed her suspicion that suburbia was pure hell and her parents little more than well-mannered jailers, our troubles escalated.
 
-终于有一天 Anna 遇到了一个男孩，一个和她一样认为 * 我们居住的郊区地方就是纯粹的地狱，她的父母只不过是两个比较礼貌的牢房看守 * 的男孩。我们的麻烦开始升级。
+终于有一天 Anna 遇到了一个男孩，一个和她一样认为 *我们居住的郊区地方就是纯粹的地狱，她的父母只不过是两个比较礼貌的看守她的狱卒* 的男孩。我们的麻烦开始升级。
 
 He was a brilliant student and talented cellist, but he had dropped out of high school, left his family and lived in abandoned apartments, doorways and, eventually, a cardboard box in the woods. Tall, gaunt, silent, poetic and spellbindingly intense, he soon welcomed our daughter as part of his posse. They roamed the city together, two lost souls in search of romance and trouble.
 
@@ -78,7 +78,7 @@ He was a brilliant student and talented cellist, but he had dropped out of high 
 
 ATTEMPTING to rescue her, we sent Anna to a wilderness camp in Wyoming with the hope that she would embrace the values we thought we had failed to instill in her. When she returned a month later, bronzed, thin and marathon-fit, she set up a tarp in our yard. “I can’t live in the house anymore,” she said. “Not after being in the mountains.”
 
-为了挽救她，我们将 Annna 送到了怀俄明的一个野营地，希望她在里面的经历能够让她接受那些我们觉得正面但是我们自己没有传承给她的价值观。一个月后她回来了，古铜色，瘦了，像个马拉松选手，她在院子里搭了一个小帐篷，“在大山里住了这么久之后，我已经无法在屋子里面生活了” 她说。
+为了挽救她，我们将 Annna 送到了怀俄明的一个野营地，希望她在里面的经历能够让她接受那些我们觉得正面但是我们自己没能传承给她的价值观。一个月后她回来了，古铜色，瘦了，像个马拉松选手，她在院子里搭了一个小帐篷，“在大山里住了这么久之后，我已经无法在屋子里面生活了” 她说。
 
 Anna slept outside for seven weeks, from Labor Day until late October, when persistent rain finally drove her indoors. During those weeks, I would go to our back door every night around 11 and stare at her sleeping form in the darkness, 20 yards from the house. Somewhere out there, less than a half-mile away, was another child, this one living in a cardboard box. He and I were locked in a terrible struggle, one that I knew he would win.
 
@@ -138,4 +138,4 @@ Anna 笑着对我们说：” 你们两个大粗人玩得还好吗？“
 
 As Leo leaps into her arms, I place beside her the tools I bought to help her and her family build their new cabin in the woods.
 
-Leo 跳进她的怀抱，我把买来用来帮她们在小树林里建房的工具放在她旁边。
+Leo 跳进她的怀抱，而我则把买来用来帮她们在小树林里建房的工具放在她旁边。
